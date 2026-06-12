@@ -1,0 +1,41 @@
+feature,importance
+run_years,27.248910856303972
+title_char_count,11.007000592971263
+premiere_year,10.002034410464953
+runtimeMinutes,7.876012380301783
+title_word_count,5.630805942375942
+genre_comedy,4.321938335455437
+country_grouped_United States,2.689243163168316
+technique_grouped_CGI,2.6663521039955502
+country_grouped_Canada,2.6600340937350264
+genre_family,2.597476561954684
+genre_adventure,2.514583322100201
+country_grouped_Coproduction,2.3047790022401338
+technique_grouped_Traditional,1.959636533138393
+era_Modern (97-09),1.8377532821721578
+country_grouped_United Kingdom,1.6867140617956073
+genre_action,1.6777864157783886
+technique_grouped_Flash,1.6519733484512447
+era_Streaming Era (2010+),1.5677423930500665
+title_has_character,1.4818550256034437
+country_grouped_Other,1.4105566800760896
+era_Golden Age (85-96),1.3260832742336242
+technique_grouped_Other,1.1783328864484772
+country_grouped_France,0.8033282931095327
+country_grouped_Brazil,0.7813581960113742
+title_has_hero_keyword,0.405312675040677
+technique_grouped_Stop Motion,0.32967894599766745
+title_has_low_animal,0.10539116147624786
+country_grouped_Spain,0.07905857222694497
+genre_animation,0.07703307445634174
+title_has_high_animal,0.038429438843317135
+technique_grouped_Stop-motion,0.026414397896960432
+technique_grouped_Flash/Traditional,0.02540267069272145
+country_grouped_Australia,0.022226364443193914
+country_grouped_Germany,0.008761543990280927
+technique_grouped_CGI/Flash,0.0
+technique_grouped_Toon Boom Harmony,0.0
+country_grouped_South Korea,0.0
+era_Classic (pre-1970),0.0
+era_Bronze Age (70s-84),0.0
+isAdult,0.0

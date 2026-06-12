@@ -1,0 +1,17 @@
+animal,total_shows,successful,success_rate,avg_rating,signal
+bee,1,1,100.0,8.1,High
+fox,1,1,100.0,8.1,High
+duck,5,2,40.0,7.12,High
+bear,8,3,37.5,6.7625,High
+rabbit,3,1,33.33333333333333,7.133333333333333,Medium
+wolf,3,1,33.33333333333333,6.5,Medium
+dragon,11,3,27.27272727272727,6.945454545454544,Medium
+cat,12,3,25.0,6.95,Medium
+dinosaur,4,1,25.0,7.2,Medium
+dog,12,1,8.333333333333332,6.641666666666667,Medium
+turtle,1,0,0.0,5.1,Low
+pig,5,0,0.0,6.18,Low
+dino,4,0,0.0,6.75,Low
+panda,4,0,0.0,6.65,Low
+horse,1,0,0.0,6.4,Low
+lion,2,0,0.0,6.4,Low
